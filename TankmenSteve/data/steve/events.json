@@ -1,0 +1,39 @@
+{
+	"song": {
+		"speed": 2.3,
+		"stage": "tankmen",
+		"player1": "bf",
+		"player2": "steve",
+		"player3": null,
+		"events": [
+			[
+				52266.6666666666,
+				[
+					[
+						"Screen Shake",
+						"1, 0.01",
+						"1, 0.01"
+					]
+				]
+			],
+			[
+				77866.6666666667,
+				[
+					[
+						"Play Animation",
+						"scared",
+						"1"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 225,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Steve"
+	}
+}

@@ -1,0 +1,39 @@
+{
+	"storyName": "Out Of Bullets",
+	"hideFreeplay": false,
+	"weekBackground": "steve",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"songs": [
+		[
+			"Steve",
+			"steve",
+			[
+				25,
+				20,
+				20
+			]
+		],
+		[
+			"Bomb",
+			"steve",
+			[
+				30,
+				20,
+				20
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"",
+		"Steve",
+		""
+	],
+	"weekName": "steve"
+}
