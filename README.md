@@ -6,10 +6,17 @@ This Is Just A Test Mod That I Made To Test Out Psych Engine Features! Don't Exp
 Little Q&A :
 
 Why The Musics Sucks?
+
 I'm not a musician.
 
+
 Why The Charts Sucks?
+
 I'm not a charter.
 
+
 Why The Mod Sucks?
+
 Phuc Yu Bob Iz MAD >:(((((
+
+
