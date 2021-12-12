@@ -12,7 +12,7 @@ function onCreate()
 	end
 
 	makeLuaSprite('ground', 'ground', -100, 50);
-	setLuaSpriteScrollFactor('ground', 0.5, 0.5);
+	setLuaSpriteScrollFactor('ground', 0.9, 0.9);
 
 	addLuaSprite('sky', false);
 	addLuaSprite('mountain', false);
