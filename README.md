@@ -3,6 +3,8 @@ Sing off against the one and only, Steve from TANKMEN!. [Steve Sprite By Hannima
 
 This Is Just A Test Mod That I Made To Test Out Psych Engine Features! Don't Expect Anything Mindblowing Or Some Sort.
 
+Note : This mod actually have 2 versions, normal PC version and Android Port Version (coming soon), Credit to https://www.youtube.com/watch?v=t4gUyyYsYzw&t=89s for the  engine port
+
 ----------------------------------------------------------------------------------------------------------------------
 
 THIS IS NOT AN EXE. FOLLOW INSTALLATION INSTRUCTIONS BELOW :
